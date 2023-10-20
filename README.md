@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Rhett!
-(some call me RJ, or Jay)
+(some call me RJ or Jay)
 
 <!--
 **jay-bulk/jay-bulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,14 +20,18 @@ Here are some ideas to get you started:
 
 ### Software Developer
 
-- 🔭 I’m currently working on: __StandardJS__ 
-- 🌱 I’m currently reading: __Extreme Ownership__
-- 👯 I’m looking to collaborate on anything open source 😄
-- 📫 How to reach me: Email is best, but I'm not averse to the odd letter 📬 or pigeon 🐦
+- 🔭 I’m currently working on: __StandardJS__
+- 🌱 I’m currently learning: I'm in my Master's program & a lot of it involves project management 😵‍💫
+- 📖 I’m currently reading: __Extreme Ownership__
+- 🐳 I’m looking to collaborate on: Anything really, I'm usually searching the catacombs🪦 for a good-first-issue... so reach out!
+- 📫 How to reach me: Email is best, but I'm not averse to the odd letter 📬 or pigeon 🐦.
 - ⚡ Fun fact (two truths and a lie style):
+  > I'd say lunch is on me if you guess right and I made a lot of money, but I dont. I work for a university and I'm an open source developer after all... So instead I'll offer my time or friendship ***crowd: Boooh lame!*** 🍅 ... seriously though, reach out!
   - Ich kann auch Deutsh 🇩🇪, I have held conversations (albeit poorly) in Italiano 🇮🇹, Suomi 🇫🇮, Español 🇪🇸, Русский 🇷🇺, and I spent a summer learning 日本語 🇯🇵
   - My journey to dev started as a 5yr old playing with Suse Linux 👨‍💻 and my first language was COBOL🙃.
   - I've got a scar across my brow from a shooting acident 🏹
+ 
+  
 
 <br/>
 
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/jay_bulk"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="www.linkedin.com/in/rhettbulkley"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-### Toolset
+### Toolset 🥷
 
 <table>
     <tr>
@@ -94,9 +98,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-### My GitHub Stats
+<!--### My GitHub Stats-->
 
-<table>
+<!--<table>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-bulk"/>
         </td> 
@@ -107,7 +111,8 @@ Here are some ideas to get you started:
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-bulk&langs_count=10&layout=compact"/>
         </td>
     </tr>
-</table>
+</table>-->
+#### Thanks for stopping by 😃
 
 
 
