@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p>Best way to reach me is email! 😄</p><img src="https://github.com/tutao/tutanota/blob/master/resources/favicon/logo-favicon.svg" width="40" height="40"/>
 <br><p>But you can also find me here:</p>
 <a href="https://twitter.com/jay_bulk"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="www.linkedin.com/in/rhettbulkley"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/rhettbulkley"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Toolset 🥷
 
