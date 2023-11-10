@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Software Developer
 
 - 🔭 I’m currently working on: __StandardJS__
-- 🌱 I’m currently learning: I'm in my Master's program & a lot of it involves project management 😵‍💫
+- 🌱 I’m currently learning: Some things about drone-racing and I enjoy competitive tree climbing. [Join this discord](https://discord.gg/U5W4vZqu) where I discuss these hobbies which are entirely unrelated to work, I promise.
 - 📖 I’m currently reading: __Extreme Ownership__
 - 🐳 I’m looking to collaborate on: Anything really, I'm usually searching the catacombs🪦 for a good-first-issue... so reach out!
 - 📫 How to reach me: Email is best, but I'm not averse to the odd letter 📬 or pigeon 🐦.
