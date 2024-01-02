@@ -20,19 +20,16 @@ Here are some ideas to get you started:
 
 ### Software Developer
 
-- 🔭 I’m currently working on: __StandardJS__
-- 🌱 I’m currently learning: I have a goal of contributing to the node core someday, so I'm learning as much as I can about the ecosystem, event loop, and core architecture. If you care to share your ideas around this please reach out!
-- 📖 I’m currently reading: __Extreme Ownership__
-- 🐳 I’m looking to collaborate on: Anything really, I'm usually searching the catacombs🪦 for a good-first-issue... so reach out!
+- 🔭 I’m currently working on: Mostly __StandardJS__ and trying surviving as a father of 3 young kids.
+- 🌱 I’m currently learning: I have a goal of contributing to node core, so I'm learning as much as I can about the ecosystem, event loop, and core architecture. If you care to share your ideas around this please reach out!
+- 📖 I’m currently reading: __Mindset__
 - 📫 How to reach me: Email is best, but I'm not averse to the odd letter 📬 or pigeon 🐦.
 - ⚡ Fun fact (two truths and a lie style):
-  > I'd say lunch is on me if you guess right and I made a lot of money, but I dont. I work for a university and I'm an open source developer after all... So instead I'll offer my time or friendship ***crowd: Boooh lame!*** 🍅 ... seriously though, reach out!
-  - Ich kann auch Deutsh 🇩🇪, I have held conversations (albeit poorly) in Italiano 🇮🇹, Suomi 🇫🇮, Español 🇪🇸, Русский 🇷🇺, and I spent a summer learning 日本語 🇯🇵
-  - My journey to dev started as a 5yr old playing with Suse Linux 👨‍💻 and my first language was COBOL🙃.
+  > I'd say lunch is on me if you guess right and I made a lot of money, but I dont. I work for a university.
+  - Ich kann Deutsh 🇩🇪, I have held conversations (albeit poorly) in Italiano 🇮🇹, Suomi 🇫🇮, Español 🇪🇸, Русский 🇷🇺, and I spent a summer learning 日本語 🇯🇵
+  - My journey to dev started as a 5 yr old playing with Suse Linux 👨‍💻 and my first professional language was COBOL🙃.
   - I've got a scar across my brow from a shooting acident 🏹
  
-  
-
 <br/>
 
 
