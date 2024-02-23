@@ -20,13 +20,10 @@ Here are some ideas to get you started:
 
 ### Software Developer
 
-- 🔭 I’m currently working on: An curl like utility that can generate routes from an openAPI spec and be configured with resource tokens. I'm also just trying surviving as a father of 3 young kids.
-- ⚡ Fun fact (two truths and a lie style):
-  > I'd say lunch is on me if you guess right and I made a lot of money, but I dont. I work for a university.
+- 🔭 I’m currently working on: A curl like utility that will be capable of generating routes from an openAPI 3.0 spec and be configured with resource tokens. I'm also just trying surviving as a father of 3 young kids.
+- ⚡ Fun facts about me: (two truths and a lie style):
   - Ich kann Deutsh 🇩🇪, I have held conversations (albeit poorly) in Italiano 🇮🇹, Suomi 🇫🇮, Español 🇪🇸, Русский 🇷🇺, and I spent a summer learning 日本語 🇯🇵
-  - My journey to dev started as a 5 yr old playing with Suse Linux 👨‍💻 and my first professional language was COBOL🙃.
-  - I've got a scar across my brow from a shooting acident 🏹
- 
+  - My dev journey started as an 8 yr old playing with Linux Distros 👨‍💻 and my first professional language was COBOL🙃. 
 <br/>
 
 
