@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 
 ### Software Developer
 
-- 🔭 I’m currently working on: Mostly __StandardJS__ and trying surviving as a father of 3 young kids.
-- 🌱 I’m currently learning: I have a goal of contributing to node core, so I'm learning as much as I can about the ecosystem, event loop, and core architecture. If you care to share your ideas around this please reach out!
-- 📖 I’m currently reading: __Mindset__
-- 📫 How to reach me: Email is best, but I'm not averse to the odd letter 📬 or pigeon 🐦.
+- 🔭 I’m currently working on: An curl like utility that can generate routes from an openAPI spec and be configured with resource tokens. I'm also just trying surviving as a father of 3 young kids.
 - ⚡ Fun fact (two truths and a lie style):
   > I'd say lunch is on me if you guess right and I made a lot of money, but I dont. I work for a university.
   - Ich kann Deutsh 🇩🇪, I have held conversations (albeit poorly) in Italiano 🇮🇹, Suomi 🇫🇮, Español 🇪🇸, Русский 🇷🇺, and I spent a summer learning 日本語 🇯🇵
@@ -35,10 +32,8 @@ Here are some ideas to get you started:
 
 
 ### How to reach me:
-<p>Best way to reach me is email! 😄</p><img src="https://github.com/tutao/tutanota/blob/master/resources/favicon/logo-favicon.svg" width="40" height="40"/>
-<br><p>But you can also find me here:</p>
-<a href="https://twitter.com/jay_bulk"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://linkedin.com/in/rhettbulkley"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<p><a href="https://twitter.com/jay_bulk">Find me on X</a></p>
+
 
 ### Toolset 🥷
 
@@ -72,20 +67,6 @@ Here are some ideas to get you started:
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>IDEs</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vim/vim-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Testing</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/node-tap/tap.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
