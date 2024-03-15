@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   - My dev journey started as an 8 yr old playing with Linux Distros 👨‍💻 and my first professional language was COBOL🙃.
   - Oh and I love space:
 pew pew
-<img src="./assets/ncc-1701-160x160.gif"/>
+<img class="margin:auto" title="pew pew" alt="rusty-ship" src="./assets/ncc-1701-160x160.gif"/>
 <br/>
 
 ### "Truth is, I don't stand a chance. It's something that you're born into and I just don't belong" - Rivers Cuomo
-<img src="./assets/homestar.gif"/>
+<img class="margin:auto" src="./assets/homestar.gif"/>
 
 
 ### How to reach me:
