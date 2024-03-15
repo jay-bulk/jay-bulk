@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on: A curl like utility that will be capable of generating routes from an openAPI 3.0 spec and be configured with resource tokens. I'm also just trying surviving as a father of 3 young kids.
-- ⚡ Fun facts about me: (two truths and a lie style):
+- ⚡ Fun facts:
   - Ich kann Deutsh 🇩🇪, I have held conversations (albeit poorly) in Italiano 🇮🇹, Suomi 🇫🇮, Español 🇪🇸, Русский 🇷🇺, and I spent a summer learning 日本語 🇯🇵
-  - My dev journey started as an 8 yr old playing with Linux Distros 👨‍💻 and my first professional language was COBOL🙃. 
+  - My dev journey started as an 8 yr old playing with Linux Distros 👨‍💻 and my first professional language was COBOL🙃.
+  - Oh and I love space:
+pew pew
+<img src="./assets/ncc-1701-160x160.gif"/>
 <br/>
 
+### "Truth is, I don't stand a chance. It's something that you're born into and I just don't belong" - Rivers Cuomo
+<img src="./assets/homestar.gif"/>
 
 
 ### How to reach me:
