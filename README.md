@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Rhett!
-(some call me RJ or Jay)
-
+### Hi there 👋 I'm Rhett Jay!
+(I also go by Rhett, RJ, or Jay, I honestly don't care just don't call me Mr. Bulkley)
 <!--
 **jay-bulk/jay-bulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
