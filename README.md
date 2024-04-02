@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   - Ich kann Deutsh 🇩🇪, I have held conversations (albeit poorly) in Italiano 🇮🇹, Suomi 🇫🇮, Español 🇪🇸, Русский 🇷🇺, and I spent a summer learning 日本語 🇯🇵
   - My dev journey started as an 8 yr old playing with Linux Distros 👨‍💻 and my first professional language was COBOL🙃.
   - Oh and I love space:
+<br/>
 pew pew
 <img class="margin:auto" title="pew pew" alt="rusty-ship" src="./assets/ncc-1701-160x160.gif"/>
 <br/>
