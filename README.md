@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 - 🔭 I’m currently working on: A curl like utility that will be capable of generating routes from an openAPI 3.0 spec and be configured with resource tokens. I'm also just trying surviving as a father of 3 young kids.
 - ⚡ Fun facts:
   - Ich kann Deutsh 🇩🇪, I have held conversations (albeit poorly) in Italiano 🇮🇹, Suomi 🇫🇮, Español 🇪🇸, Русский 🇷🇺, and I spent a summer learning 日本語 🇯🇵
@@ -72,6 +73,7 @@ pew pew
 
 
 <br/>
+</div>
 
 <!--### My GitHub Stats-->
 
